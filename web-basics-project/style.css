@@ -1,0 +1,270 @@
+body {
+    background-color: black;
+    background-image: url("images/aquarium.gif");
+    background-position: left;
+    background-repeat: repeat;
+    background-size: cover;
+    font-family: "Lucida Console";
+}
+
+p{
+    text-align: center; color: #7BEDDA;
+}
+
+.hcenterwhite {
+    text-align: center; color: #ADFFF0;
+}
+.hcenterdarker {
+    text-align: center; color: #7BEDDA;
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: teal;
+}
+
+a:hover {
+    color: lavender;
+}
+
+hr {
+    width: 50%;
+    border: 2px solid teal;
+}
+
+.divtitle {
+    border-radius: 25px;
+    border: 5px dashed lightblue;
+    background-color: #042447;
+    opacity: 0.9;
+    padding: 20px;
+    text-align: center;
+    max-width: 300px; margin: auto;
+}
+
+.divfish {
+    text-align: left;
+    padding: 25px;
+}
+
+.leftbox {
+border-radius: 25px;
+    border: 5px dashed lightblue;
+    background-color: #042447;
+    opacity: 0.9;
+    padding: 20px;
+    text-align: center;
+    max-width: 300px; margin: auto;
+    position: absolute;
+    top: 400px;
+    left: 50px;
+}
+
+.rightbox {
+border-radius: 25px;
+    border: 5px dashed lightblue;
+    background-color: #042447;
+    opacity: 0.9;
+    padding: 20px;
+    text-align: center;
+    max-width: 300px; margin: auto;
+    position: absolute;
+    top: 400px;
+    right: 50px;
+}
+
+
+.divteal {
+    border-radius: 25px;
+    border: 5px dashed lightblue;
+    background-color: #042447;
+    opacity: 0.9;
+    padding: 20px;
+    text-align: center;
+    max-width: 400px; margin: auto;
+}
+
+.divteal2 {
+    border-radius: 25px;
+    border: 5px dashed lightblue;
+    background-color: #042447;
+    opacity: 0.9;
+    padding: 20px;
+    text-align: center;
+    max-width: 550px; margin: auto;
+}
+
+.divtealwide {
+    border-radius: 25px;
+    border: 5px dashed lightblue;
+    background-color: #042447;
+    opacity: 0.9;
+    padding: 20px;
+    text-align: center;
+    max-width: 500px; margin: auto;
+}
+
+#divtable {
+    border-radius: 25px;
+    border: 5px dashed lightblue;
+    background-color: #042447;
+    opacity: 0.9;
+    padding: 20px;
+    text-align: center;
+    max-width: 615px; margin: auto;
+}
+
+#booksmusic {
+    color: #042447;
+}
+
+.hlists {
+    border-radius: 25px;
+    background-color: lightblue;
+    color: indigo;
+}
+
+li {
+    color: lavender;
+}
+
+.games {
+    list-style-image: url("images/heart.gif");
+    color: lavender;
+    list-style-position: inside;
+    margin-left: 100px;
+    text-align: left;
+}
+
+.movies {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    color: #ADFFF0;
+}
+
+th{
+    padding: 10px;
+    background-color: lightgreen;
+}
+
+td{
+    padding: 10px;
+}
+
+tr:hover {
+background-color: lavender;
+}
+
+tr {
+background-color: lightblue;
+opacity: 0.75;
+}
+
+.goldfishimg {   
+    float: left;
+    padding: 1px;
+}
+
+.toprightimage {   
+    position: absolute;
+    top: 100px;
+    right: 100px;
+    padding: 1px;
+}
+
+.bodybubble1 {   
+    position: absolute;
+    bottom: 150px;
+    right: 350px;
+    padding: 1px;
+}
+
+.bodybubble2 {   
+    position: absolute;
+    top: 200px;
+    left: 350px;
+    padding: 1px;
+}
+
+.bodybubble3 {   
+    position: absolute;
+    top: 50px;
+    right: 500px;
+    padding: 1px;
+}
+
+
+.twofishanddanceimg {   
+    position: absolute;
+    top: 100px;
+    right: 450px;
+    padding: 1px;
+}
+
+.schoolfishimg {   
+    position: absolute;
+    top: 150px;
+    right: 300px;
+    padding: 1px;
+}
+
+.birdimg {   
+    position: absolute;
+    top: 220px;
+    left: 280px;
+    padding: 1px;
+}
+
+.bodyimgbird {   
+    position: absolute;
+    top: 180px;
+    left: 150px;
+    padding: 1px;
+    border-radius: 25px;
+    border: 5px dashed lightblue;
+}
+
+
+.bschoolfishimg {   
+    position: absolute;
+    bottom: 150px;
+    left: 200px;
+    padding: 1px;
+}
+
+.bodyimgmusic {   
+    position: absolute;
+    bottom: 150px;
+    left: 400px;
+    padding: 1px;
+}
+
+.swimmingfishimg {   
+    position: absolute;
+    bottom: -220px;
+    left: 380px;
+    padding: 1px;
+}
+
+.heartimg {   
+    position: absolute;
+    bottom: -190px;
+    right: 300px;
+    padding: 1px;
+}
+
+.fishimgleft{
+            float: left;
+            padding: 5px;
+            margin: 30px;
+        }
+
+.fishimgright{
+            float: right;
+            padding: 5px;
+            margin: 30px;
+        }
